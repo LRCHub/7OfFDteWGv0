@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春日記",
+  "base_artist": "リュックと添い寝ごはん",
+  "createdAt": "2026-04-03T02:53:49.341475Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春日記",
+      "artist": "リュックと添い寝ごはん",
+      "has_synced": false,
+      "path": "select/pl_01_青春日記_リュックと添い寝ごはん.txt"
+    }
+  ]
+}
